@@ -1,0 +1,7 @@
+[user]
+	email = gedl@protonmail.com
+	name = Gedl
+[core]
+	editor = vim
+[commit]
+  template = ~/.gitmessage
