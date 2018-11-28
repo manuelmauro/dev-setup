@@ -10,7 +10,7 @@ Installs the following:
 * vim
 * vundle
 
-## dotfiles - some useful configuration file
+## dotfiles
 Furthermore  this repo contains dotfiles for:
 
 * bash
