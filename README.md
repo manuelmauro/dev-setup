@@ -7,6 +7,8 @@ Installs the following:
 * build-essentials
 * clang
 * git
+* haskell
+* rust
 * vim
 * vundle
 
@@ -14,7 +16,7 @@ Installs the following:
 Furthermore  this repo contains dotfiles for:
 
 * bash
-* gitmessage
+* git
 * vim
 
 I suggest you to use [GNU Stow](https://www.gnu.org/software/stow/) as described
