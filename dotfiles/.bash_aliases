@@ -20,3 +20,4 @@ alias extip='curl http://ipecho.net/plain; echo'
 
 # Development
 alias glog='git log --graph --abbrev-commit --decorate --format=format:"%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)"'
+alias actix-autoreload='systemfd --no-pid -s http::3000 -- cargo watch -x run'
