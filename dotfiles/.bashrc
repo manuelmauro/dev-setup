@@ -77,7 +77,7 @@ shopt -s cdable_vars
 # Examples:
 # export dotfiles="$HOME/dotfiles"
 export documents="$HOME/Documents"
-export workspace="$HOME/workspace"
+export workspace="$HOME/Workspace"
 
 # If set, the pattern "**" used in a pathname expansion context will
 # match all files and zero or more directories and subdirectories.

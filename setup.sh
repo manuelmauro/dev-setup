@@ -5,9 +5,10 @@
 sudo apt-get install -y build-essential clang git pkg-config stow
 
 # Install Haskell
-sudo apt-get install haskell-platform
+sudo apt-get install -y haskell-platform
 
 # Install Rust
+sudo apt-get install -y curl
 curl https://sh.rustup.rs -sSf | sh
 
 # Install vim and vundle
