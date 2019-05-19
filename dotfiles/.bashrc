@@ -67,17 +67,17 @@ bind '"\e[D": backward-char'
 # Add the directories you want to have fast access to, separated by colon
 # Ex: CDPATH=".:~:~/projects" will look for targets in the current working
 # directory, in home and in the ~/projects folder
-CDPATH="."
+CDPATH=".:$HOME/Workspace:$HOME/Gssi"
 
 # This allows you to bookmark your favorite places across the file system
 # Define a variable containing a path and you will be able to cd into it
 # regardless of the directory you're in
-shopt -s cdable_vars
+# shopt -s cdable_vars
 
 # Examples:
 # export dotfiles="$HOME/dotfiles"
-export documents="$HOME/Documents"
-export workspace="$HOME/Workspace"
+# export documents="$HOME/Documents"
+# export workspace="$HOME/Workspace"
 
 # If set, the pattern "**" used in a pathname expansion context will
 # match all files and zero or more directories and subdirectories.

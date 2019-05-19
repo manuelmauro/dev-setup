@@ -1,6 +1,7 @@
 [user]
 	email = gedl@protonmail.com
 	name = Gedl
+	signingkey = AAAAC3NzaC1lZDI1NTE5AAAAIBOkIAw75kbyGF+GIssYlYd2Ie4TRL1JA74hYLdWsNec
 [core]
 	editor = vim
 [commit]
